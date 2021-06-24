@@ -26,7 +26,7 @@ export class CreateCompliments1624495711511 implements MigrationInterface {
                         type: "uuid",
                     },
                     {
-                        name: "messege",
+                        name: "message",
                         type: "varchar"
                     },
                     {
