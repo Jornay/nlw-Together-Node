@@ -35,8 +35,8 @@ Por fim, basta apenas digitar o comando de inicialização do projeto:
 
 E ele esta funcionando na sua maquina! 🚀🚀
 <br>
-
-
+<br>
+Link da aplicação no Heroku: https://project-nlwtogether.herokuapp.com/
 
 <br>
 
