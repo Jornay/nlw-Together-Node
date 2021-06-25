@@ -11,9 +11,7 @@ class AuthenticateUserController{
             password,
         });
 
-        return response.json({
-            message: "User Authenticated"
-        })
+        return response.json(token)
     }
 }
 
